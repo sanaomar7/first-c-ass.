@@ -1,0 +1,15 @@
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.exe
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Mobile Development\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
